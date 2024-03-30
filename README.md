@@ -1,33 +1,33 @@
-# Bienvenido a Another Cooking Simulator
+# Welcome to Another Cooking Simulator
 
-¡Gracias por visitar el repositorio de Another Cooking Simulator! Aquí encontrarás todo lo necesario para sumergirte en una emocionante experiencia culinaria en realidad virtual, donde los jugadores podrán convertirse en chefs virtuales que preparan hamburguesas deliciosas. Pero eso no es todo: ¡la acción se intensifica con los jugadores en PC asumiendo el papel de camareros que toman pedidos, recogen ingredientes y sirven la comida a los comensales!
+Thank you for visiting the Another Cooking Simulator repository! Here you'll find everything you need to immerse yourself in an exciting culinary experience in virtual reality, where players can become virtual chefs preparing delicious burgers. But that's not all: the action intensifies with PC players taking on the role of waiters who take orders, gather ingredients, and serve food to diners!
 
-## Proyecto Final de Quinto Año de Informática en ORT
+## Fifth Year Computer Science Final Project at ORT High School
 
-Este proyecto fue desarrollado como parte del proyecto final del quinto año de la carrera de Informática en el Instituto ORT. Fue creado por un grupo de tres : Simón Pedro Mirleni, Tobias Elkowich y Damian Orzejovsky. Este duro todo el año y una vez cada dos semanas haciamos una entrega parcial con los avances del grupo.
+This project was developed as part of the fifth-year final project in Computer Science at ORT Institute. It was created by a group of three: Simón Pedro Mirleni, Tobias Elkowich, and Damian Orzejovsky. It lasted the entire year, with partial deliveries of the group's progress made once every two weeks.
 
-## Descripción del Proyecto
+## Project Description
 
-Another Cooking Simulator es una experiencia única en la que la realidad virtual y el juego multijugador se fusionan para ofrecer una experiencia culinaria completamente inmersiva. Los jugadores en realidad virtual asumen el emocionante rol de chefs virtuales, mientras que los jugadores en PC forman el equipo de camareros encargados de atender a los clientes de manera eficiente.
+Another Cooking Simulator is a unique experience where virtual reality and multiplayer gaming merge to offer a fully immersive culinary experience. Players in virtual reality take on the exciting role of virtual chefs, while PC players form the team of waiters responsible for efficiently serving customers.
 
-- **Cocinero en Realidad Virtual:** Los jugadores en realidad virtual se convierten en maestros cocineros. Utilizando las manos virtuales, podrán cortar ingredientes, cocinar hamburguesas en la parrilla, ensamblar los ingredientes y preparar deliciosas hamburguesas siguiendo las órdenes de los camareros.
+- **Virtual Reality Chef:** Players in virtual reality become master chefs. Using virtual hands, they'll be able to chop ingredients, grill burgers, assemble ingredients, and prepare delicious burgers following the waiters' orders.
 
-- **Camareros en PC:** Los jugadores en PC son los camareros que mantienen la operación en movimiento. Tomarán los pedidos de los clientes, seleccionarán los ingredientes necesarios de la despensa y los llevarán al chef en realidad virtual. Una vez que las hamburguesas estén listas, recogerán las bandejas, agregarán acompañamientos y llevarán las comidas a los clientes hambrientos.
+- **PC Waiters:** PC players are the waiters who keep the operation moving. They'll take customers' orders, select the necessary ingredients from the pantry, and bring them to the virtual reality chef. Once the burgers are ready, they'll pick up the trays, add sides, and serve the meals to hungry customers.
 
-## Características Destacadas
+## Key Features
 
-- **Experiencia Realista en Realidad Virtual:** La tecnología de realidad virtual permite a los jugadores en VR interactuar con los ingredientes y utensilios de cocina de manera realista, creando una experiencia auténtica y envolvente.
+- **Realistic Virtual Reality Experience:** Virtual reality technology allows VR players to interact with ingredients and kitchen utensils realistically, creating an authentic and immersive experience.
 
-- **Trabajo en Equipo Esencial:** La cooperación entre el cocinero en VR y los camareros en PC es fundamental para asegurarse de que cada pedido se complete correctamente y a tiempo, brindando una experiencia excepcional a los clientes.
+- **Essential Teamwork:** Cooperation between the VR chef and PC waiters is crucial to ensure that each order is completed correctly and on time, providing an exceptional experience to customers.
 
-- **Variedad de Opciones de Hamburguesas:** Desde hamburguesas clásicas hasta creaciones personalizadas, los jugadores tienen la libertad de combinar ingredientes para satisfacer los gustos únicos de los clientes.
+- **Variety of Burger Options:** From classic burgers to custom creations, players have the freedom to combine ingredients to satisfy unique customer tastes.
 
-## Instrucciones de Uso
+## Usage Instructions
 
-1. Clona este repositorio en tu máquina local.
-2. Abre el proyecto en Unity para explorar la mecánica y la lógica del juego.
-3. Asegúrate de configurar correctamente tus dispositivos VR y PC para una experiencia óptima.
-4. Sumérgete en el proyecto y experimenta el emocionante mundo de la cocina y el servicio de hamburguesas.
+1. Clone this repository to your local machine.
+2. Open the project in Unity to explore the game mechanics and logic.
+3. Make sure to properly set up your VR and PC devices for an optimal experience.
+4. Dive into the project and experience the exciting world of burger cooking and service.
 
 ## Trailer
-https://drive.google.com/file/d/1ALL6fPmyNX7Sa5teNc8j_XVwnYFvR6aS/view?usp=drive_link
+[Watch the trailer here](https://drive.google.com/file/d/1ALL6fPmyNX7Sa5teNc8j_XVwnYFvR6aS/view?usp=drive_link)
